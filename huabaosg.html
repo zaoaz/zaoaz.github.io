@@ -12,8 +12,29 @@
 <style> 
  a {font-size:30px;font-weight:900;}
 
-a:link {color: WHITE; text-decoration:none;} 
-a:hover {color: YELLOW; text-decoration:underline;}  
+.myButton {
+	background-color:#44c767;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:14px 44px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
 </style> 
   </head>
 
@@ -23,8 +44,17 @@ a:hover {color: YELLOW; text-decoration:underline;}
     <div id="footer_wrap" class="outer">
 	<img src="https://o1wh05aeh.qnssl.com/image/view/app_icons/df3790ca77191aab50b77fd2a0458789/120"/><br/>
 	<!--<a href="itms-services://?action=download-manifest&url=https://zaoaz.github.io/huabaosg.plist" class="redlink">点击下载</a>-->
-	<a href="https://www.pgyer.com/hbsg" class="redlink">安卓下载</a><br/><a href="https://www.pgyer.com/huabao" class="redlink">IOS下载</a>
+	<a href="https://www.pgyer.com/hbsg" class="myButton">安卓下载</a><br/><a href="https://www.pgyer.com/huabao" class="myButton">IOS下载</a>
     </div>
+
+
+
+
+
+
+        
+
+
 
   </body>
 </html>

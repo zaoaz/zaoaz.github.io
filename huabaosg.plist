@@ -13,19 +13,19 @@
 					<key>url</key>
 					<string>http://112.124.102.118:8080/source/ProjectM.ipa</string>
 				</dict>
-				
+
 			</array>
 			<key>metadata</key>
 			<dict>
-				<key>DisplayName</key>
-				<string>Xcode 7.3.1 Default</string>
-				<key>Identifier</key>
-				<string>com.apple.dt.toolchain.XcodeDefault</string>
+				<key>bundle-identifier</key>
+				<string>com.xx.ttddz</string>
+				<key>bundle-version</key>
+				<string>2.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>冰封战场</string>
 			</dict>
-			<key>Name</key>
-			<string>ProjectM</string>
-			<key>SchemeName</key>
-			<string>冰封战场</string>
 		</dict>
 	</array>
 </dict>

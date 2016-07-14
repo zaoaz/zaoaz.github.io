@@ -13,25 +13,10 @@
 					<key>url</key>
 					<string>http://112.124.102.118:8080/source/ProjectM.ipa</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>url</key>
-					<string>http://zaoaz.github.io/icon.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>url</key>
-					<string>http://zaoaz.github.io/icon.png</string>
-				</dict>
+				
 			</array>
 			<key>metadata</key>
-			<key>ArchiveVersion</key>
-			<integer>2</integer>
-			<key>CreationDate</key>
-			<date>2016-07-14T02:37:13Z</date>
-			<key>DefaultToolchainInfo</key>
+			<key>Archiv2016/7/14oolchainInfo</key>
 			<dict>
 				<key>DisplayName</key>
 				<string>Xcode 7.3.1 Default</string>

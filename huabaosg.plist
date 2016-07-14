@@ -13,7 +13,18 @@
 					<key>url</key>
 					<string>http://112.124.102.118:8080/source/ProjectM.ipa</string>
 				</dict>
-
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>http://zaoaz.github.io/icon.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>http://zaoaz.github.io/icon.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>

@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xx.ttddz</string>
+				<string>com.game.wgamef</string>
 				<key>bundle-version</key>
-				<string>2.0</string>
+				<string>1.3.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>冰封战场</string>
+				<string>划爆三国</string>
 			</dict>
 		</dict>
 	</array>

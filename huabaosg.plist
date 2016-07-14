@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://112.124.102.118:8080/source/dota.ipa</string>
+					<string>http://112.124.102.118:8080/source/ProjectM.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,16 +27,21 @@
 				</dict>
 			</array>
 			<key>metadata</key>
+			<key>ArchiveVersion</key>
+			<integer>2</integer>
+			<key>CreationDate</key>
+			<date>2016-07-14T02:37:13Z</date>
+			<key>DefaultToolchainInfo</key>
 			<dict>
-				<key>bundle-identifier</key>
-				<string>com.xx.ttddz</string>
-				<key>bundle-version</key>
-				<string>2.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>冰封战场</string>
+				<key>DisplayName</key>
+				<string>Xcode 7.3.1 Default</string>
+				<key>Identifier</key>
+				<string>com.apple.dt.toolchain.XcodeDefault</string>
 			</dict>
+			<key>Name</key>
+			<string>ProjectM</string>
+			<key>SchemeName</key>
+			<string>冰封战场</string>
 		</dict>
 	</array>
 </dict>

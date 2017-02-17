@@ -7,14 +7,14 @@ var TEXT_TRY_AGAIN = '老葛，我们走！';
 var TEXT_PLAY_BGM = '';
 var TEXT_TIME_ELAPSED = '- %s s';
 var TEXT_TOTAL_TIME_ELAPSED = '累计将汐发售日提前 %s 秒';
-var TEXT_TINY_TIPS = '[微小的提示]\n为了获得坠好的游戏体验，请：\n打开音量\n穿上红色的衣服';
+var TEXT_TINY_TIPS = '[微小的提示]\n为了获得坠好的游戏体验，请：\n打开音量\n';
 var TEXT_FONT = '"Segoe UI", "Microsoft YaHei", 宋体, sans-serif'; // 插入宋体
 
 var _gravity = 40,
-  _speed = 390,
+  _speed = 510,
   _flap = 620,
   _spawnRate = 1 / 1.2,
-  _opening = 260;
+  _opening = 90;
 
 var _game;
 

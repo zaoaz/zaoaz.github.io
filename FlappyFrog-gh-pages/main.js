@@ -11,10 +11,10 @@ var TEXT_TINY_TIPS = '[微小的提示]\n为了获得坠好的游戏体验，请
 var TEXT_FONT = '"Segoe UI", "Microsoft YaHei", 宋体, sans-serif'; // 插入宋体
 
 var _gravity = 40,
-  _speed = 510,
+  _speed = 350,
   _flap = 620,
   _spawnRate = 1 / 1.2,
-  _opening = 90;
+  _opening = 100;
 
 var _game;
 
